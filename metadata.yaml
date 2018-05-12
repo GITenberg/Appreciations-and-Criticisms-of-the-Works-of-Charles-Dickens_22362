@@ -1,0 +1,36 @@
+_repo: Appreciations-and-Criticisms-of-the-Works-of-Charles-Dickens_22362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: 'Published in 1911, here is a gathering of the prefaces that Chesterton
+  wrote for more than twenty of Dickens''s novels. With quintessential Chesterton
+  wit, the chapters display his supreme admiration for Dickens. He writes: Dickens
+  must definitely be considered in light of the changes which his soul foresaw. Thackeray
+  has become classical; Dickens has done more; he has remained modern &#8230; he belongs
+  to the times since his death.'
+gutenberg_issued: '2007-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22362'
+  lccn: '11002983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Criticism and interpretation'
+title: Appreciations and Criticisms of the Works of Charles Dickens
+url: http://www.gutenberg.org/ebooks/22362
